@@ -17,13 +17,7 @@ import medium from "./assets/medium.png"
 
 const App = () => {
   return (
-    <Grid
-      // container
-      className="App"
-      alignItems="center"
-      gap={2}
-      // justifyContent="space-evenly"
-    >
+    <Grid className="App" alignItems="center" gap={2}>
       <ProductModal />
       <LoadingModal />
       <SuccessModal />
@@ -43,7 +37,7 @@ const App = () => {
           <GitHubIcon />
           <Typography
             component="a"
-            href="https://github.com"
+            href="https://github.com/Denis-Karpiuk/useModalControl"
             target="_blank"
             variant="h6"
           >
