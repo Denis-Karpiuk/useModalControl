@@ -1,4 +1,4 @@
-# useModalControl for React [Live Demo](https://usemodalcontrol.web.app/){:target="\_blank"}
+# useModalControl for React <a href="https://usemodalcontrol.web.app/" target="_blank">Live Demo</a>
 
 ![General Result](https://github.com/Denis-Karpiuk/useModalControl/assets/84145873/a74bc71a-7189-45ed-988a-422cfd224a4a)
 
