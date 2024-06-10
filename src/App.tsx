@@ -60,7 +60,7 @@ const App = () => {
           <img src={medium} alt="medium" />
           <Typography
             component="a"
-            href="https://medium.com/p/e45ef7c23cd3/edit"
+            href="https://medium.com/@dzianiskarpiuk/eliminate-the-chaos-of-modal-windows-with-usemodalcontrol-react-e45ef7c23cd3"
             target="_blank"
             variant="h6"
           >
@@ -76,7 +76,7 @@ const App = () => {
               padding: "4px",
             }}
             component="a"
-            href="https://habr.com/ru/sandbox/new/"
+            href="https://habr.com/ru/sandbox/218773/"
             target="_blank"
             variant="h6"
           >
