@@ -1,4 +1,6 @@
-import { Divider, Link, Typography } from "@mui/material"
+import GitHubIcon from "@mui/icons-material/GitHub"
+import LinkedInIcon from "@mui/icons-material/LinkedIn"
+import { Divider, Typography } from "@mui/material"
 import Grid from "@mui/material/Unstable_Grid2/Grid2"
 import "./App.css"
 import {
@@ -10,8 +12,6 @@ import {
   WarningModal,
 } from "./components"
 import { ProductModal } from "./components/Modals/ProductModal"
-import LinkedInIcon from "@mui/icons-material/LinkedIn"
-import GitHubIcon from "@mui/icons-material/GitHub"
 
 import medium from "./assets/medium.png"
 
